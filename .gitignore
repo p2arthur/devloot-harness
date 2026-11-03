@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+checkpoint/
+*.sqlite
+*.sqlite-*
+.DS_Store
+context/conversation_history/
